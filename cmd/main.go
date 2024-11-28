@@ -8,7 +8,7 @@ import (
 
 func main() {
 	// Bot Token (directly in main.go)
-	botToken := "8000561437:AAH7tpFksq9nz4bOGIQPb_qC32X7kX0Bp30" // Replace with your actual bot token
+	botToken := "Biye Korte Hobe :)" // Replace with your actual bot token
 
 	// Initialize the Telegram bot
 	bot, err := tgbotapi.NewBotAPI(botToken)
